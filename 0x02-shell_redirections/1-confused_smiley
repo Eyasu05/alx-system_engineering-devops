@@ -1,3 +1,2 @@
 #!/bin/bash
-FILE="(Ôo)'
-echo "\"$FILE\" "
+echo "\""(Ôo)'\" "
